@@ -4,7 +4,7 @@ algoritmo "Fibonacci com Procedimento"
 // Data : 21/09/2020
 // Seção de Declarações 
 var
-C,T1, T2, T3: inteiro
+C,T1, T2: inteiro
 Procedimento ProximoFibonacci(var A,B:inteiro)
 var C:inteiro
 inicio
